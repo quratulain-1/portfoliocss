@@ -1,0 +1,97 @@
+* {
+    background-color: bisque;
+    margin: 5px;
+}
+
+.container {
+    height: 50px;
+    border: 3px solid black;
+  align-content: center;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.navbar {
+    text-decoration: none;
+    color:brown;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.main{
+    border: 3px solid black;
+}
+.about{
+    align-content: center;
+    text-align: center;
+    color: brown;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.profile{
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+}
+.hello{
+    font-weight: bold;
+}
+.dummy{
+    width:350px;
+    border-radius: 50%;
+}
+.education{
+    text-align: center;
+    color: brown;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.info {
+   height: 250px;
+ font-weight: bold;
+   align-content: center;
+   text-align: center;
+}
+.presentation{
+    text-align: center;
+    color: brown;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.work{
+    display: flex;
+    justify-content: space-between;
+}
+.calculator{
+    width: 350px;
+    height: 300px;
+}
+.form{
+    width: 300px;
+    height: 300px;
+}
+.login{
+    width: 250px;
+    height: 300px;
+}
+.images{
+    display: flex;
+    justify-content: space-evenly;
+}
+.skills{
+    text-align: center;
+    color: brown;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.css{
+    width: 190px;
+}
+.python{
+    width: 250px;
+}
+
+.pakistan {
+    align-content: center;
+    padding: 5px;
+    height: 250px;
+    color: rgb(207, 81, 81);
+    border: 3px solid black;
+    font-weight: bold;
+}
